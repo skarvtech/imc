@@ -143,7 +143,26 @@
   <address id="0x416A" name="ccu-zp-1-106"/>
   <address id="0x410a" name="ccu-pitvant-laptop-01-1-10"/>
   <address id="0x406c" name="ccu-lsts-0-108"/>
-  <address id="0x5FFF" name="europtus"/>
+  <!-- Skarv Technologies Topside -->
+  <address id="0x5000" name="skarv-topside-0000"/>
+  <address id="0x5001" name="skarv-topside-0001"/>
+  <address id="0x5002" name="skarv-topside-0002"/>
+  <address id="0x5003" name="skarv-topside-0003"/>
+  <address id="0x5004" name="skarv-topside-0004"/>
+  <address id="0x5005" name="skarv-topside-0005"/>
+  <address id="0x5006" name="skarv-topside-0006"/>
+  <address id="0x5007" name="skarv-topside-0007"/>
+  <address id="0x5008" name="skarv-topside-0008"/>
+  <!-- Skarv Technologies Corax -->
+  <address id="0x5300" name="skarv-corax-0000"/>
+  <address id="0x5301" name="skarv-corax-0001"/>
+  <address id="0x5302" name="skarv-corax-0002"/>
+  <address id="0x5303" name="skarv-corax-0003"/>
+  <address id="0x5304" name="skarv-corax-0004"/>
+  <address id="0x5305" name="skarv-corax-0005"/>
+  <address id="0x5306" name="skarv-corax-0006"/>
+  <address id="0x5307" name="skarv-corax-0007"/>
+  <address id="0x5308" name="skarv-corax-0008"/>
   <!-- Sensors of LSTS (Payload Vehicle modules) -->
   <address id="0x6000" name="doam"/>
   <address id="0x6002" name="lauv-seacon-1-aux"/>
